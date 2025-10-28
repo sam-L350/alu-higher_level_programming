@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 def no_c(my_string):
     """Return a new string with all 'c' and 'C' characters removed."""
     new_string = ""
